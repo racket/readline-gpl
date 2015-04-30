@@ -1,1 +1,1 @@
-# readline-gpl
+readline-gpl
